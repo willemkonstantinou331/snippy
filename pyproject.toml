@@ -1,0 +1,5 @@
+[project]
+name = "snippy"
+version = "0.1.0"
+description = "🧩 Build AI-powered MCP Tools with Azure Functions, Durable Agents & Cosmos vector search. Features orchestrated multi-agent workflows using OpenAI."
+requires-python = ">=3.10"
